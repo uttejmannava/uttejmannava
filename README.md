@@ -1,7 +1,7 @@
 ### Hi there, I'm Uttej👋
 
 - 👀 I’m interested in Data Science and Machine Learning, specifically in its financial applications.
-- 🌱 I’m currently learning about building a custom agent with Langchain to support translation of natural language to SQL data queries!
+- 🌱 I’m currently learning about building custom Langchain agents to support translation of natural language to SQL data queries!
 - 💞️ Hit me up to collaborate on cool data projects!
 - 📫 Reach me at linkedin.com/in/uttejmannava.
 
