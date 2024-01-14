@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Uttej👋
+
+- 👀 I’m interested in Data Science and Machine Learning, specifically in its financial applications.
+- 🌱 I’m currently learning about building a custom agent with Langchain to support NLP-to-SQL data queries!
+- 💞️ Hit me up to collaborate on cool data projects!
+- 📫 Reach me at linkedin.com/in/uttejmannava.
+
 
 <!--
 **uttejmannava/uttejmannava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
