@@ -1,17 +1,21 @@
 <h2 align="center">
-  Hi there, I'm Uttej👋
+  Hi there, I'm Uttej 👋
 </h2>
+<h3 align="center">
+  Data Science and Business student at Western University and the Ivey Business School
+</h3>
 
 - 👀 I’m interested in Data Science and Machine Learning, specifically in its financial applications.
 - 🌱 I’m currently learning about building custom Langchain agents to translate natural language to SQL data queries!
 - 💞️ Hit me up to collaborate on cool data projects!
-- 📫 Reach me at linkedin.com/in/uttejmannava.
 
-
+<p align="center">
+  My favorites:
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python,react,django,html,css,tailwind, c,cpp,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,r,postgres,sklearn,tensorflow&theme=dark" />
   </a>
 </p>
 
