@@ -1,4 +1,6 @@
-### Hi there, I'm Uttej👋
+<h2 align="center">
+  Hi there, I'm Uttej👋
+</h2>
 
 - 👀 I’m interested in Data Science and Machine Learning, specifically in its financial applications.
 - 🌱 I’m currently learning about building custom Langchain agents to translate natural language to SQL data queries!
@@ -6,17 +8,13 @@
 - 📫 Reach me at linkedin.com/in/uttejmannava.
 
 
-<!--
-**uttejmannava/uttejmannava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,python,react,django,html,css,tailwind, c,cpp,mysql" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  📫 Hit me up on <a href="https://www.linkedin.com/in/uttejmannava">LinkedIn</a> anytime, always down to talk.
+</div>
