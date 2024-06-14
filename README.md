@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning about building custom Langchain agents to translate natural language to SQL data queries!
 
 <p align="center">
-  My favorites:
+
 </p>
 
 <p align="center">
