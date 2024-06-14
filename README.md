@@ -7,7 +7,6 @@
 
 - 👀 I’m interested in Data Science and Machine Learning, specifically in its financial applications.
 - 🌱 I’m currently learning about building custom Langchain agents to translate natural language to SQL data queries!
-- 💞️ Hit me up to collaborate on cool data projects!
 
 <p align="center">
   My favorites:
