@@ -5,8 +5,6 @@
   Data Science and Business student at Western University and the Ivey Business School
 </h3>
 
-- 👀 I’m interested in Data Science and Machine Learning, specifically in its financial applications.
-
 <p align="center">
 
 </p>
